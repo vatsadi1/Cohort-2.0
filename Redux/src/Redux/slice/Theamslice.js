@@ -1,5 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+//jt76u6
+
 export const Theamslice = createSlice({
  name:'theam',
  initialState:{
