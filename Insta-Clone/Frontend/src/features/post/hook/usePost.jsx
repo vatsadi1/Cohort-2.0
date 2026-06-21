@@ -42,9 +42,7 @@ export const usePost = () => {
     setLoading(false)
   }
  
-  const handlefollowing = async ()=>{
-
-  }
+  
 
   return {
     loading,
